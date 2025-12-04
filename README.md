@@ -188,17 +188,7 @@ footfall-ui/
 ![Analytics](./screenshots/analytics-view.png)
 *Comprehensive analytics with customizable filters and date ranges*
 
-### Live Video Stream
-![Video Stream](./screenshots/video-stream.png)
-*HLS video streaming with real-time footfall overlay*
-
-### ROI Configuration
-![ROI Setup](./screenshots/roi-configuration.png)
-*Interactive region of interest configuration tool*
-
 </div>
-
-> 📸 **Note**: Add your screenshots to the `screenshots/` directory - see [ADDING_MEDIA.md](./ADDING_MEDIA.md) for instructions
 
 ---
 
@@ -286,19 +276,6 @@ pm2 start ecosystem.config.js
 pm2 save
 ```
 
----
-
-## 📖 Documentation
-
-- 📘 [API Documentation](./docs/API.md)
-- 🎨 [Dark Theme Transformation](./DARK_THEME_TRANSFORMATION.md)
-- 🤖 [AI Integration Guide](./AI_TRANSFORMATION_SUMMARY.md)
-- 💡 [Lighting Effects](./LIGHTING_EFFECTS.md)
-- 📊 [Mock Data Information](./DUMMY_DATA_INFO.md)
-- 📸 [Adding Screenshots & Videos](./ADDING_MEDIA.md)
-- 🚀 [Quick Media Guide](./QUICK_MEDIA_GUIDE.md)
-
----
 
 ## 🤝 Contributing
 
